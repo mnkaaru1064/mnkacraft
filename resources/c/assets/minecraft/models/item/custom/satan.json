@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "book",
 	"textures": {
-		"1": "block/satan/Unknown",
+		"1": "block/satan/unknown",
 		"2": "block/satan/black_candle_lit_satan",
 		"3": "block/satan/flame_satan"
 	},
