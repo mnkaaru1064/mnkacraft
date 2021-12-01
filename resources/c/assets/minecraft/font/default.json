@@ -86,6 +86,94 @@
             "ascent": 12,
             "height": 15,
             "chars": ["\uE011"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/fondateur.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE012"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/administrateur.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE013"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/chef-mod.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE014"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/chef-dev.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE015"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/chef-builder.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE016"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/builder.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE017"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/dev.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE018"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/noble.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE019"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/bourgeois.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE020"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/paysan.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE021"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:rank/joueur.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": ["\uE022"]
         }
     ]
 }
