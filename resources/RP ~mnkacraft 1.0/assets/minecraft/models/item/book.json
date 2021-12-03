@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/book"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "item/custom/pileofbook"},
+    {"predicate": {"custom_model_data":2}, "model": "item/custom/computer"},
+    {"predicate": {"custom_model_data":3}, "model": "item/custom/pedestal"},
+    {"predicate": {"custom_model_data":4}, "model": "item/custom/table"},
+    {"predicate": {"custom_model_data":5}, "model": "item/custom/small_chinese_fountain"},
+    {"predicate": {"custom_model_data":6}, "model": "item/custom/satan"},
+    {"predicate": {"custom_model_data":7}, "model": "item/custom/secret_door"},
+    {"predicate": {"custom_model_data":8}, "model": "item/custom/secret_door_open"}
+
+    ]
+}
